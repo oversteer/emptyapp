@@ -1,14 +1,14 @@
 {
-  "main.css": "/myrepo/static/css/main.ccd3bf22.chunk.css",
-  "main.js": "/myrepo/static/js/main.7143c0c9.chunk.js",
-  "main.js.map": "/myrepo/static/js/main.7143c0c9.chunk.js.map",
-  "runtime~main.js": "/myrepo/static/js/runtime~main.e56f8662.js",
-  "runtime~main.js.map": "/myrepo/static/js/runtime~main.e56f8662.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/myrepo/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/myrepo/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/myrepo/index.html",
-  "precache-manifest.78443a411c69f65f49b17acee85c2a60.js": "/myrepo/precache-manifest.78443a411c69f65f49b17acee85c2a60.js",
-  "service-worker.js": "/myrepo/service-worker.js",
-  "static/css/main.ccd3bf22.chunk.css.map": "/myrepo/static/css/main.ccd3bf22.chunk.css.map",
-  "static/media/logo.svg": "/myrepo/static/media/logo.5d5d9eef.svg"
+  "main.css": "/emptyapp/static/css/main.ccd3bf22.chunk.css",
+  "main.js": "/emptyapp/static/js/main.9a22a5ea.chunk.js",
+  "main.js.map": "/emptyapp/static/js/main.9a22a5ea.chunk.js.map",
+  "runtime~main.js": "/emptyapp/static/js/runtime~main.4e52209e.js",
+  "runtime~main.js.map": "/emptyapp/static/js/runtime~main.4e52209e.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/emptyapp/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/emptyapp/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/emptyapp/index.html",
+  "precache-manifest.3ff3c53fa40ec62f5ef0f3b1ff2a1549.js": "/emptyapp/precache-manifest.3ff3c53fa40ec62f5ef0f3b1ff2a1549.js",
+  "service-worker.js": "/emptyapp/service-worker.js",
+  "static/css/main.ccd3bf22.chunk.css.map": "/emptyapp/static/css/main.ccd3bf22.chunk.css.map",
+  "static/media/logo.svg": "/emptyapp/static/media/logo.5d5d9eef.svg"
 }
