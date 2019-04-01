@@ -4,16 +4,6 @@ import './App.css';
 
 class App extends Component {
 
-  componentDidMount() {
-    fetch('https://api.iextrading.com/1.0/stock/market/batch?types=price&symbols=AAPL')
-    .then(function(response) {
-      return response.json();
-    })
-    .then(function(myJson) {
-      console.log(JSON.stringify(myJson));
-    });
-  }
-
   render() {
     return (
       <div className="App">
