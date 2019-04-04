@@ -2,7 +2,7 @@
   "name": "emptyapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oversteer.github.io",
+  "homepage": "https://oversteer.github.io/emptyapp",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
