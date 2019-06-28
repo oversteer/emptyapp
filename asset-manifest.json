@@ -1,14 +1,14 @@
 {
-  "main.css": "/emptyapp/static/css/main.ccd3bf22.chunk.css",
-  "main.js": "/emptyapp/static/js/main.57291d06.chunk.js",
-  "main.js.map": "/emptyapp/static/js/main.57291d06.chunk.js.map",
-  "runtime~main.js": "/emptyapp/static/js/runtime~main.4e52209e.js",
-  "runtime~main.js.map": "/emptyapp/static/js/runtime~main.4e52209e.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/emptyapp/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/emptyapp/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/emptyapp/index.html",
-  "precache-manifest.e1cb16621005bf4606c49e9e077a0215.js": "/emptyapp/precache-manifest.e1cb16621005bf4606c49e9e077a0215.js",
-  "service-worker.js": "/emptyapp/service-worker.js",
-  "static/css/main.ccd3bf22.chunk.css.map": "/emptyapp/static/css/main.ccd3bf22.chunk.css.map",
-  "static/media/logo.svg": "/emptyapp/static/media/logo.5d5d9eef.svg"
+  "main.css": "/ticker-react/static/css/main.ccd3bf22.chunk.css",
+  "main.js": "/ticker-react/static/js/main.a52b4ee8.chunk.js",
+  "main.js.map": "/ticker-react/static/js/main.a52b4ee8.chunk.js.map",
+  "runtime~main.js": "/ticker-react/static/js/runtime~main.08df7b42.js",
+  "runtime~main.js.map": "/ticker-react/static/js/runtime~main.08df7b42.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/ticker-react/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/ticker-react/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/ticker-react/index.html",
+  "precache-manifest.823a2507f6c71960175273e543c57821.js": "/ticker-react/precache-manifest.823a2507f6c71960175273e543c57821.js",
+  "service-worker.js": "/ticker-react/service-worker.js",
+  "static/css/main.ccd3bf22.chunk.css.map": "/ticker-react/static/css/main.ccd3bf22.chunk.css.map",
+  "static/media/logo.svg": "/ticker-react/static/media/logo.5d5d9eef.svg"
 }
