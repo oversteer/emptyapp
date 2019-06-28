@@ -2,7 +2,7 @@
   "name": "emptyapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oversteer.github.io/emptyapp",
+  "homepage": "https://brendan-healey.github.io/ticker-react",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
