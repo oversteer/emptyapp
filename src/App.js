@@ -10,7 +10,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Hello Alice I love you lots xxx
+            The live version of the application will be available on Tuesday 2nd July 2019.
           </p>
         </header>
       </div>
