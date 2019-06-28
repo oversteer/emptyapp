@@ -10,7 +10,9 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             The live version of the application will be available on Tuesday 2nd July 2019.<br />
-            Apologies for any inconvenience.
+            Apologies for any inconvenience.<br><br>
+            Regards,
+            Brendan
           </p>
         </header>
       </div>
