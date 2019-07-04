@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ticker-react/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "0f010612f656b20e3eed01250fb99071",
+    "revision": "e06ca8f37317b223cd0c3689c44f3de2",
     "url": "/ticker-react/index.html"
   }
 ];
