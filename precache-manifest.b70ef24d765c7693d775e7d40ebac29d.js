@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "69c655cd66161bb51750",
+    "revision": "d9b369552aec0170437d",
     "url": "/ticker-react/static/css/main.ccd3bf22.chunk.css"
   },
   {
-    "revision": "69c655cd66161bb51750",
-    "url": "/ticker-react/static/js/main.c83ea205.chunk.js"
+    "revision": "d9b369552aec0170437d",
+    "url": "/ticker-react/static/js/main.e5cb9ecd.chunk.js"
   },
   {
     "revision": "305279a73927139954c5",
@@ -16,11 +16,7 @@ self.__precacheManifest = [
     "url": "/ticker-react/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/ticker-react/static/media/logo.5d5d9eef.svg"
-  },
-  {
-    "revision": "59a463451f40defd416ddb7335ea5e33",
+    "revision": "160ec3b1ce14837945ec508fdc215a0a",
     "url": "/ticker-react/index.html"
   }
 ];
