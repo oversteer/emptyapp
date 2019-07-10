@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ticker-react/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "160ec3b1ce14837945ec508fdc215a0a",
+    "revision": "df084be281ab566651ee6fd511025ed0",
     "url": "/ticker-react/index.html"
   }
 ];
